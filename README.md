@@ -1,8 +1,8 @@
 # RWModEditor
 The app can:
--Visualize your .ini file contents instead of showing lines of text
--Create template with built-in templates (I have something in my mind that you may like it in the future update)
--Save/Load ini file
+\nVisualize your .ini file contents instead of showing lines of text
+\nCreate template with built-in templates (I have something in my mind that you may like it in the future update)
+\nSave/Load ini file
 -Add/Delete Sections/Properties
 Features:
 -Text Autocomplete/Suggestion (Not finished yet)
