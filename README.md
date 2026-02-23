@@ -56,3 +56,15 @@ Donations help cover Google Play registration fee and future updates.
 - Improved autocomplete
 - Font size customization
 - UI/UX refinements
+## 📥 Installation
+
+1. Download the latest APK from Releases
+2. Install on your Android device
+3. Open and start managing your .ini files
+
+
+## 🛠 Built With
+
+- Java / Kotlin
+- Android SDK
+- Material Design 3
