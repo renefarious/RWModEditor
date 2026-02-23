@@ -1,42 +1,58 @@
 # RWModEditor
-📁 INI File Editor
-A modern Android application that lets you manage and visualize .ini files in a structured and user-friendly interface — instead of dealing with raw text lines.
-✨ Core Capabilities
-📊 Visualize .ini files
-Structured view of Sections and Properties
-No more scrolling through raw text
-🧩 Template Creation
-Built-in templates included
-More templates planned for future updates
-💾 Save / Load .ini files
-➕➖ Section & Property Management
-Add new Sections
-Add new Properties
-Delete Sections / Properties
-🚀 Features
-🔤 Text Autocomplete / Suggestions
-Currently under development.
-🔄 Reorder Sections / Properties
-Tap and hold the left-most drag icon
-Drag to reorder items
-🎨 Appearance Customization
-Theme support (Light / Dark / System)
-Font size option (coming soon — subject to change)
-🖋️ Full Custom Font Support
-Use your own font files inside the app
-⚠️ Notes
-🎨 Dynamic Theme (Material You) is available only on:
-Android 12 (API 31) and above
-❌ No Undo button
-A confirmation dialog appears before deletion to prevent accidental removal 😆
-💖 Support the Project
-If you’d like to help support development:
-Open the About dialog and tap Support Me.
-Donations help cover:
-Google Play registration fee
-Future updates and improvements
-📦 Planned Improvements
-More built-in templates
-Improved autocomplete system
-Font size customization
-UI/UX refinements
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Android](https://img.shields.io/badge/Android-12%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-orange)
+
+A modern Android application that lets you manage and visualize `.ini` files in a structured and user-friendly interface instead of raw text lines.
+
+---
+
+## ✨ Core Capabilities
+
+- Visualize `.ini` files in structured format
+- Create templates using built-in templates
+- Save and Load `.ini` files
+- Add/Delete Sections
+- Add/Delete Properties
+
+---
+
+## 🚀 Features
+
+### Text Autocomplete / Suggestions
+- Currently under development
+
+### Reorder Sections / Properties
+- Tap and hold the left-most drag icon
+- Drag to reorder
+
+### Appearance Customization
+- Light / Dark / System theme
+- Dynamic Theme (Material You) – Android 12+
+- Custom fonts supported
+- Font size option (coming soon)
+
+---
+
+## ⚠️ Notes
+
+- Dynamic Theme (Material You) works only on Android 12 and above
+- No Undo button
+- A confirmation dialog appears before deletion
+
+---
+
+## 💖 Support
+
+You can support development by clicking the **Support Me** button in the About dialog.
+
+Donations help cover Google Play registration fee and future updates.
+
+---
+
+## 📦 Planned Improvements
+
+- More built-in templates
+- Improved autocomplete
+- Font size customization
+- UI/UX refinements
