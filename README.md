@@ -39,7 +39,7 @@ A modern Android application that lets you manage and visualize `.ini` files in 
 - Dynamic Theme (Material You) works only on Android 12 and above
 - No Undo button
 - A confirmation dialog appears before deletion
-
+- Accepted fonts format .ttf/.otf
 ---
 
 ## 💖 Support
