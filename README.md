@@ -51,7 +51,7 @@ A modern Android application that lets you manage and visualize `.ini` files in 
 
 ## 💖 Support
 
-You can support development by clicking the [**Support Me**(https://ko-fi.com/renefarious)] button in the About dialog.
+You can support development by clicking the [Support Me](https://ko-fi.com/renefarious) button in the About dialog.
 
 Donations help cover Google Play registration fee and future updates.
 
