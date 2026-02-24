@@ -40,6 +40,13 @@ A modern Android application that lets you manage and visualize `.ini` files in 
 - No Undo button
 - A confirmation dialog appears before deletion
 - Accepted fonts format .ttf/.otf
+
+---
+
+## ⚠️ Warning
+
+- App is still in early stage and needs more optimization to cover all device so it is expected that this app may crash upon launching. If you have issues directly report to me at ***renefarious.dev@gmail.com**
+
 ---
 
 ## 💖 Support
